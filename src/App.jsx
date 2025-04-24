@@ -1,7 +1,9 @@
+import ProfileFinder from "./profilefinder.jsx";
+
 function App() {
     return(
-    <div>asadsadasd</div>
-    )
+    <ProfileFinder />
+    );
 }
 
 export default App;
